@@ -108,7 +108,7 @@ _will segfault if vulnerable_
 + SIP Proxies: https://github.com/zaf/sipshock
 
 
-+## DNS
+## DNS
 ++ RDNS vector - packetstormsecurity.com/files/128650/DNS-Reverse-Lookup-Shellshock.html
 +
 
