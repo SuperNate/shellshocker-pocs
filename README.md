@@ -108,6 +108,10 @@ _will segfault if vulnerable_
 + SIP Proxies: https://github.com/zaf/sipshock
 
 
++## DNS
+++ RDNS vector - packetstormsecurity.com/files/128650/DNS-Reverse-Lookup-Shellshock.html
++
+
 ## Qmail
 + Detailed walkthrough - http://marc.info/?l=qmail&m=141183309314366&w=2
 + Tweet from @ymzkei5 - http://twitter.com/ymzkei5/status/515328039765307392
