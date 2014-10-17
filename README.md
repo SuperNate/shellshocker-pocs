@@ -109,8 +109,8 @@ _will segfault if vulnerable_
 
 
 ## DNS
-++ RDNS vector - packetstormsecurity.com/files/128650/DNS-Reverse-Lookup-Shellshock.html
-+
++ RDNS vector - http://packetstormsecurity.com/files/128650/DNS-Reverse-Lookup-Shellshock.html
+
 
 ## Qmail
 + Detailed walkthrough - http://marc.info/?l=qmail&m=141183309314366&w=2
